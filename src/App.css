@@ -33,6 +33,17 @@
     transform: rotate(0deg);
   }
   to {
+  
     transform: rotate(360deg);
   }
 }
+.black{
+  background-color: rgb(247, 247, 247);
+  
+
+}
+.red{
+  background-color: rgb(9, 241, 67);
+ 
+}
+
